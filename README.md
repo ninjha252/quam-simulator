@@ -54,8 +54,7 @@ quam-simulator/
 ├── .gitignore
 ├── LICENSE
 ├── run_quantum_security_demo.py      # Main experiment runner
-├── rerun_all_1hr_stressed.py         # Paper reproduction script
-├── QUAM_IMPLEMENTATION_SPEC_V2.md    # Detailed technical specification
+├── rerun_all_1hr_stressed.py         
 └── quam_microgrid/
     └── quam/
         ├── finalmain.py              # Core simulation loop
