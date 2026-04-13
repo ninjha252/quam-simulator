@@ -43,9 +43,9 @@ This specification provides **detailed implementation instructions** for enhanci
                                      │
                       QKD-secured inter-microgrid links
                                      │
-                    ┌────────────────┼────────────────┐
-                    │                │                │
-                    ▼                ▼                ▼
+                    ┌────────────────┼
+                    │                │                
+                    ▼                ▼                
               ┌──────────┐    ┌──────────┐    
               │   MG1    │◄──►│   MG2    │    
               │          │    │          │    
@@ -106,7 +106,7 @@ This specification provides **detailed implementation instructions** for enhanci
 | **External Attacker** | Outside network | Spoof messages, disturb QBER | ✅ Yes |
 | **Insider (Compromised MG0)** | Controls coordinator | Legitimate keys, send malicious commands | ✅ Yes |
 
-**REMOVED**: External attacker key exhaustion (unrealistic - no key access)
+
 
 ---
 
