@@ -83,7 +83,7 @@ If you use QuAM in your research, please cite:
 ```bibtex
 @inproceedings{jha2026quam,
   title={A Novel Quantum Augmented Framework to Improve Microgrid Cybersecurity},
-  author={Jha, Nitin and Parakh, Abhishek and Subramaniam, Mahadevan},
+  author={Jha, Nitin and Paudel, Prateek and Parakh, Abhishek and Subramaniam, Mahadevan},
   booktitle={Proceedings of SPIE Defense and Security},
   year={2026}
 }
